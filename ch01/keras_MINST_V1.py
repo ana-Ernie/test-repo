@@ -12,7 +12,7 @@ from keras.utils import np_utils
 
 np.random.seed(1671)
 
-NB_EPOCH = 201
+NB_EPOCH = 200
 BATCH_SIZE = 128
 VERBOSE = 1
 NB_CLASSES = 10
